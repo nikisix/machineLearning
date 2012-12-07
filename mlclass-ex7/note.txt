@@ -1,0 +1,7 @@
+unsure why ex7 plot portions aren't working. Submissions check out however, and it seems to be limited to a problem with the plotting interface
+
+
+complete 3d visualization at the end of the excercise
+	original data = many dimensions
+	svd => only 3 dimensions
+	plot data
